@@ -1,0 +1,32 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.image-gallery {
+  margin-top: 50px;
+}
+
+.thumbnail {
+  margin: 0px 10px 10px 0px;
+  max-width: 150px;
+  max-height: 150px;
+}
+
+.location-chooser {
+  width: 25% !important;
+}
+
+.search-button {
+  margin-top: 10px;
+}
+
+.authors {
+  font-size: 12px;
+  margin-top: -10px;
+  margin-bottom: 10px;
+}

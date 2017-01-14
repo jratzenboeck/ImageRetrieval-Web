@@ -1,0 +1,864 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<topics>
+<topic>
+   <number>31</number>
+   <title>doge_s_palace</title>
+   <latitude>45.4339</latitude>
+   <longitude>12.34</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Doge%27s_Palace,_Venice</wiki>
+</topic>
+<topic>
+   <number>32</number>
+   <title>eiffel_tower</title>
+   <latitude>48.8583</latitude>
+   <longitude>2.2945</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Eiffel_Tower</wiki>
+</topic>
+<topic>
+   <number>33</number>
+   <title>golden_gate_bridge</title>
+   <latitude>37.819722</latitude>
+   <longitude>-122.478611</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Golden_Gate_Bridge</wiki>
+</topic>
+<topic>
+   <number>34</number>
+   <title>grand_palais</title>
+   <latitude>48.866161</latitude>
+   <longitude>2.312553</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Grand_Palais</wiki>
+</topic>
+<topic>
+   <number>35</number>
+   <title>guggenheim_museum_bilbao</title>
+   <latitude>43.268606</latitude>
+   <longitude>-2.934286</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Guggenheim_Museum_Bilbao</wiki>
+</topic>
+<topic>
+   <number>36</number>
+   <title>hagia_sophia_istanbul</title>
+   <latitude>41.008548</latitude>
+   <longitude>28.979938</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Hagia_Sophia</wiki>
+</topic>
+<topic>
+   <number>37</number>
+   <title>hoover_dam</title>
+   <latitude>36.015556</latitude>
+   <longitude>-114.737778</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Hoover_Dam</wiki>
+</topic>
+<topic>
+   <number>38</number>
+   <title>humayun_tomb</title>
+   <latitude>28.593264</latitude>
+   <longitude>77.250602</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Humayun%27s_Tomb</wiki>
+</topic>
+<topic>
+   <number>39</number>
+   <title>iguazu_falls</title>
+   <latitude>-25.695278</latitude>
+   <longitude>-54.436667</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Iguazu_Falls</wiki>
+</topic>
+<topic>
+   <number>40</number>
+   <title>iolani_palace</title>
+   <latitude>21.306622</latitude>
+   <longitude>-157.858958</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Iolani_Palace</wiki>
+</topic>
+<topic>
+   <number>41</number>
+   <title>la_mezquita</title>
+   <latitude>37.879194</latitude>
+   <longitude>-4.779722</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Mosque%E2%80%93Cathedral_of_C%C3%B3rdoba</wiki>
+</topic>
+<topic>
+   <number>42</number>
+   <title>la_rambla_barcelona</title>
+   <latitude>41.381389</latitude>
+   <longitude>2.173056</longitude>
+   <wiki>"http://en.wikipedia.org/wiki/La_Rambla</wiki>
+</topic>
+<topic>
+   <number>43</number>
+   <title>la_sainte_chapelle</title>
+   <latitude>48.855556</latitude>
+   <longitude>2.344722</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Sainte-Chapelle</wiki>
+</topic>
+<topic>
+   <number>44</number>
+   <title>liberty_memorial</title>
+   <latitude>39.080278</latitude>
+   <longitude>-94.586111</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Liberty_Memorial</wiki>
+</topic>
+<topic>
+   <number>45</number>
+   <title>lincoln_home</title>
+   <latitude>39.797222</latitude>
+   <longitude>-89.645</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Lincoln_Home_National_Historic_Site</wiki>
+</topic>
+<topic>
+   <number>46</number>
+   <title>machu_picchu</title>
+   <latitude>-13.163056</latitude>
+   <longitude>-72.545556</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Machu_Picchu</wiki>
+</topic>
+<topic>
+   <number>47</number>
+   <title>marble_arch_london</title>
+   <latitude>51.513056</latitude>
+   <longitude>-0.158889</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Marble_Arch</wiki>
+</topic>
+<topic>
+   <number>48</number>
+   <title>milan_cathedral</title>
+   <latitude>45.46422</latitude>
+   <longitude>9.1905575</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Duomo_di_Milano</wiki>
+</topic>
+<topic>
+   <number>49</number>
+   <title>mole_antonelliana</title>
+   <latitude>45.069157</latitude>
+   <longitude>7.6931763</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Mole_Antonelliana</wiki>
+</topic>
+<topic>
+   <number>50</number>
+   <title>mont_saint_michel</title>
+   <latitude>48.636</latitude>
+   <longitude>-1.5114</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Mont_Saint-Michel</wiki>
+</topic>
+<topic>
+   <number>51</number>
+   <title>moulin_rouge</title>
+   <latitude>48.884167</latitude>
+   <longitude>2.332222</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Moulin_Rouge</wiki>
+</topic>
+<topic>
+   <number>52</number>
+   <title>nelson_s_column</title>
+   <latitude>51.507722</latitude>
+   <longitude>-0.127972</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Nelson%27s_Column</wiki>
+</topic>
+<topic>
+   <number>53</number>
+   <title>notre_dame_de_paris</title>
+   <latitude>48.853</latitude>
+   <longitude>2.3498</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Notre_Dame_de_Paris</wiki>
+</topic>
+<topic>
+   <number>54</number>
+   <title>obelisco</title>
+   <latitude>-34.60367</latitude>
+   <longitude>-58.38157</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Obelisco_de_Buenos_Aires</wiki>
+</topic>
+<topic>
+   <number>55</number>
+   <title>piccadilly_circus</title>
+   <latitude>51.51</latitude>
+   <longitude>-0.134444</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Eros_%28statue%29#Shaftesbury_Memorial_and_the_Statue_of_Eros</wiki>
+</topic>
+<topic>
+   <number>56</number>
+   <title>place_de_la_concorde</title>
+   <latitude>48.865556</latitude>
+   <longitude>2.321111</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Place_de_la_Concorde</wiki>
+</topic>
+<topic>
+   <number>57</number>
+   <title>place_de_la_republique</title>
+   <latitude>48.867278</latitude>
+   <longitude>2.364056</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Place_de_la_R%C3%A9publique</wiki>
+</topic>
+<topic>
+   <number>58</number>
+   <title>place_des_vosges</title>
+   <latitude>48.855556</latitude>
+   <longitude>2.365556</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Place_des_Vosges</wiki>
+</topic>
+<topic>
+   <number>59</number>
+   <title>pont_du_gard</title>
+   <latitude>43.9473</latitude>
+   <longitude>4.5355</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Pont_du_Gard</wiki>
+</topic>
+<topic>
+   <number>60</number>
+   <title>pont_neuf</title>
+   <latitude>48.857447</latitude>
+   <longitude>2.341617</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Pont_Neuf</wiki>
+</topic>
+<topic>
+   <number>61</number>
+   <title>ponte_vecchio</title>
+   <latitude>43.768032</latitude>
+   <longitude>11.253176</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Ponte_Vecchio</wiki>
+</topic>
+<topic>
+   <number>62</number>
+   <title>puerta_de_alcala</title>
+   <latitude>40.42</latitude>
+   <longitude>-3.688889</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Puerta_de_Alcal%C3%A1</wiki>
+</topic>
+<topic>
+   <number>63</number>
+   <title>puerta_del_sol</title>
+   <latitude>40.416944</latitude>
+   <longitude>-3.703611</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Puerta_del_Sol</wiki>
+</topic>
+<topic>
+   <number>64</number>
+   <title>red_fort</title>
+   <latitude>28.655833</latitude>
+   <longitude>77.240278</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Red_Fort</wiki>
+</topic>
+<topic>
+   <number>65</number>
+   <title>reims_cathedral</title>
+   <latitude>49.253611</latitude>
+   <longitude>4.034167</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Reims_Cathedral</wiki>
+</topic>
+<topic>
+   <number>66</number>
+   <title>rialto_bridge</title>
+   <latitude>45.438037</latitude>
+   <longitude>12.335895</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Ponte_di_Rialto</wiki>
+</topic>
+<topic>
+   <number>67</number>
+   <title>roman_forum_rome</title>
+   <latitude>41.892414</latitude>
+   <longitude>12.485683</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Roman_Forum</wiki>
+</topic>
+<topic>
+   <number>68</number>
+   <title>sacre_coeur</title>
+   <latitude>48.886694</latitude>
+   <longitude>2.343</longitude>
+   <wiki>"http://en.wikipedia.org/wiki/Sacr%C3%A9-C%C5%93ur</wiki>
+</topic>
+<topic>
+   <number>69</number>
+   <title>sagrada_familia</title>
+   <latitude>41.403611</latitude>
+   <longitude>2.174444</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia</wiki>
+</topic>
+<topic>
+   <number>70</number>
+   <title>santa_maria_novella</title>
+   <latitude>43.77475</latitude>
+   <longitude>11.249007</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Santa_Maria_Novella</wiki>
+</topic>
+<topic>
+   <number>71</number>
+   <title>schonbrunn_palace</title>
+   <latitude>48.184516</latitude>
+   <longitude>16.311865</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Sch%C3%B6nbrunn_Palace</wiki>
+</topic>
+<topic>
+   <number>72</number>
+   <title>seville_cathedral</title>
+   <latitude>37.385833</latitude>
+   <longitude>-5.993056</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Seville_Cathedral</wiki>
+</topic>
+<topic>
+   <number>73</number>
+   <title>spanish_steps</title>
+   <latitude>41.90599</latitude>
+   <longitude>12.482721</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Spanish_Steps</wiki>
+</topic>
+<topic>
+   <number>74</number>
+   <title>st__basil_cathedral</title>
+   <latitude>55.7525</latitude>
+   <longitude>37.623056</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Saint_Basil%27s_Cathedral</wiki>
+</topic>
+<topic>
+   <number>75</number>
+   <title>statue_of_liberty</title>
+   <latitude>40.694111</latitude>
+   <longitude>-74.042972</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Statue_of_Liberty</wiki>
+</topic>
+<topic>
+   <number>76</number>
+   <title>stonehenge</title>
+   <latitude>51.178844</latitude>
+   <longitude>-1.826189</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Stonehenge</wiki>
+</topic>
+<topic>
+   <number>77</number>
+   <title>summer_palace_beijing</title>
+   <latitude>39.9975</latitude>
+   <longitude>116.2689</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Summer_Palace</wiki>
+</topic>
+<topic>
+   <number>78</number>
+   <title>sydney_opera_house</title>
+   <latitude>-33.858667</latitude>
+   <longitude>151.214028</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Sydney_Opera_House</wiki>
+</topic>
+<topic>
+   <number>79</number>
+   <title>teotihuacan</title>
+   <latitude>19.6925</latitude>
+   <longitude>-98.8438</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Teotihuacan</wiki>
+</topic>
+<topic>
+   <number>80</number>
+   <title>terracotta_army</title>
+   <latitude>34.384919</latitude>
+   <longitude>109.273108</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Terracotta_Army</wiki>
+</topic>
+<topic>
+   <number>81</number>
+   <title>the_blue_mosque</title>
+   <latitude>41.005483</latitude>
+   <longitude>28.977385</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Sultan_Ahmed_Mosque</wiki>
+</topic>
+<topic>
+   <number>82</number>
+   <title>the_henry_ford</title>
+   <latitude>42.303583</latitude>
+   <longitude>-83.234078</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Edison_Institute</wiki>
+</topic>
+<topic>
+   <number>83</number>
+   <title>taj_mahal</title>
+   <latitude>27.174167</latitude>
+   <longitude>78.042222</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Taj_Mahal</wiki>
+</topic>
+<topic>
+   <number>84</number>
+   <title>tour_montparnasse</title>
+   <latitude>48.8421</latitude>
+   <longitude>2.322</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Tour_Montparnasse</wiki>
+</topic>
+<topic>
+   <number>85</number>
+   <title>tower_bridge_london</title>
+   <latitude>51.505556</latitude>
+   <longitude>-0.075556</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Tower_Bridge</wiki>
+</topic>
+<topic>
+   <number>86</number>
+   <title>trafalgar_square</title>
+   <latitude>51.508056</latitude>
+   <longitude>-0.128056</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Trafalgar_Square</wiki>
+</topic>
+<topic>
+   <number>87</number>
+   <title>leaning_tower_of_pisa</title>
+   <latitude>43.723056</latitude>
+   <longitude>10.396417</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa</wiki>
+</topic>
+<topic>
+   <number>88</number>
+   <title>hermitage_museum_saint_petersburg</title>
+   <latitude>59.941</latitude>
+   <longitude>30.3129</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Hermitage_Museum</wiki>
+</topic>
+<topic>
+   <number>89</number>
+   <title>jantar_mantar_jaipur</title>
+   <latitude>26.926317</latitude>
+   <longitude>75.824504</longitude>
+   <wiki>"http://en.wikipedia.org/wiki/Jantar_Mantar</wiki>
+</topic>
+<topic>
+   <number>90</number>
+   <title>lake_titicaca_peru</title>
+   <latitude>-15.75</latitude>
+   <longitude>-69.416667</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Lake_Titicaca</wiki>
+</topic>
+<topic>
+   <number>91</number>
+   <title>the_great_wall_of_china</title>
+   <latitude>40.67693</latitude>
+   <longitude>117.23193</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Great_Wall_of_China</wiki>
+</topic>
+<topic>
+   <number>92</number>
+   <title>grande_arche_paris</title>
+   <latitude>48.892778</latitude>
+   <longitude>2.235833</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Grande_Arche</wiki>
+</topic>
+<topic>
+   <number>93</number>
+   <title>el_angel_mexico</title>
+   <latitude>19.427</latitude>
+   <longitude>-99.16771</longitude>
+   <wiki>http://en.wikipedia.org/wiki/El_Ángel</wiki>
+</topic>
+<topic>
+   <number>94</number>
+   <title>bibliotheque_nationale_de_france</title>
+   <latitude>48.833611</latitude>
+   <longitude>2.375833</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Biblioth%C3%A8que_nationale_de_France</wiki>
+</topic>
+<topic>
+   <number>95</number>
+   <title>kronborg_castle</title>
+   <latitude>56.038611</latitude>
+   <longitude>12.621944</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Kronborg_Castle</wiki>
+</topic>
+<topic>
+   <number>96</number>
+   <title>ajanta_caves</title>
+   <latitude>20.552377</latitude>
+   <longitude>75.700436</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Ajanta_Caves</wiki>
+</topic>
+<topic>
+   <number>97</number>
+   <title>atomium</title>
+   <latitude>50.894722</latitude>
+   <longitude>4.341111</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Atomium</wiki>
+</topic>
+<topic>
+   <number>98</number>
+   <title>ellora_caves</title>
+   <latitude>20.026389</latitude>
+   <longitude>75.179167</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Ellora_Caves</wiki>
+</topic>
+<topic>
+   <number>99</number>
+   <title>potala_palace</title>
+   <latitude>29.657778</latitude>
+   <longitude>91.116944</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Potala_Palace</wiki>
+</topic>
+<topic>
+   <number>100</number>
+   <title>jokhang</title>
+   <latitude>29.653056</latitude>
+   <longitude>91.131389</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Jokhang</wiki>
+</topic>
+<topic>
+   <number>101</number>
+   <title>rila_monastery</title>
+   <latitude>42.133333</latitude>
+   <longitude>23.340278</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Rila_Monastery</wiki>
+</topic>
+<topic>
+   <number>102</number>
+   <title>louvre_pyramid</title>
+   <latitude>48.860854</latitude>
+   <longitude>2.335812</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Louvre_Pyramid</wiki>
+</topic>
+<topic>
+   <number>103</number>
+   <title>brooklyn_bridge</title>
+   <latitude>40.70569</latitude>
+   <longitude>-73.99639</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Brooklyn_Bridge</wiki>
+</topic>
+<topic>
+   <number>104</number>
+   <title>tower_of_london</title>
+   <latitude>51.508056</latitude>
+   <longitude>-0.076111</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Tower_of_London</wiki>
+</topic>
+<topic>
+   <number>105</number>
+   <title>british_museum_london</title>
+   <latitude>51.51945</latitude>
+   <longitude>-0.126931</longitude>
+   <wiki>http://en.wikipedia.org/wiki/British_Museum</wiki>
+</topic>
+<topic>
+   <number>106</number>
+   <title>buckingham_palace</title>
+   <latitude>51.501</latitude>
+   <longitude>-0.142</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Buckingham_Palace</wiki>
+</topic>
+<topic>
+   <number>107</number>
+   <title>charles_bridge_prague</title>
+   <latitude>50.086447</latitude>
+   <longitude>14.411856</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Charles_Bridge</wiki>
+</topic>
+<topic>
+   <number>108</number>
+   <title>champs_elysees_paris</title>
+   <latitude>48.869722</latitude>
+   <longitude>2.3075</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Champs-%C3%89lys%C3%A9es</wiki>
+</topic>
+<topic>
+   <number>109</number>
+   <title>chrysler_building</title>
+   <latitude>40.7517</latitude>
+   <longitude>-73.9753</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Chrysler_Building</wiki>
+</topic>
+<topic>
+   <number>110</number>
+   <title>moma_new_york</title>
+   <latitude>40.761484</latitude>
+   <longitude>-73.977664</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Museum_of_Modern_Art</wiki>
+</topic>
+<topic>
+   <number>111</number>
+   <title>grand_central_terminal</title>
+   <latitude>40.7528</latitude>
+   <longitude>-73.976522</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Grand_Central_Terminal</wiki>
+</topic>
+<topic>
+   <number>112</number>
+   <title>houses_of_parliament</title>
+   <latitude>51.499167</latitude>
+   <longitude>-0.124722</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Palace_of_Westminster</wiki>
+</topic>
+<topic>
+   <number>113</number>
+   <title>alexanderplatz_berlin</title>
+   <latitude>52.521667</latitude>
+   <longitude>13.413333</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Alexanderplatz</wiki>
+</topic>
+<topic>
+   <number>114</number>
+   <title>centre_pompidou</title>
+   <latitude>48.860653</latitude>
+   <longitude>2.352411</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Centre_Georges_Pompidou</wiki>
+</topic>
+<topic>
+   <number>115</number>
+   <title>sydney_harbour_bridge</title>
+   <latitude>-33.852222</latitude>
+   <longitude>151.210556</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Sydney_Harbour_Bridge</wiki>
+</topic>
+<topic>
+   <number>116</number>
+   <title>pier_39</title>
+   <latitude>37.809992</latitude>
+   <longitude>-122.410357</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Pier_39</wiki>
+</topic>
+<topic>
+   <number>117</number>
+   <title>coit_tower</title>
+   <latitude>37.8025</latitude>
+   <longitude>-122.405833</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Coit_Tower</wiki>
+</topic>
+<topic>
+   <number>118</number>
+   <title>st_paul_s_cathedral_london</title>
+   <latitude>51.513611</latitude>
+   <longitude>-0.098056</longitude>
+   <wiki>http://en.wikipedia.org/wiki/St_Paul%27s_Cathedral</wiki>
+</topic>
+<topic>
+   <number>119</number>
+   <title>cloud_gate</title>
+   <latitude>41.882686</latitude>
+   <longitude>-87.623325</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Cloud_Gate</wiki>
+</topic>
+<topic>
+   <number>120</number>
+   <title>musee_d_orsay</title>
+   <latitude>48.86</latitude>
+   <longitude>2.327</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Mus%C3%A9e_d%27Orsay</wiki>
+</topic>
+<topic>
+   <number>121</number>
+   <title>pike_place_market</title>
+   <latitude>47.609425</latitude>
+   <longitude>-122.3417</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Pike_Place_Market</wiki>
+</topic>
+<topic>
+   <number>122</number>
+   <title>royal_palace_madrid</title>
+   <latitude>40.417974</latitude>
+   <longitude>-3.714302</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Royal_Palace_of_Madrid</wiki>
+</topic>
+<topic>
+   <number>123</number>
+   <title>sony_center_berlin</title>
+   <latitude>52.51</latitude>
+   <longitude>13.373611</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Sony_Center</wiki>
+</topic>
+<topic>
+   <number>124</number>
+   <title>red_square_moscow</title>
+   <latitude>55.754167</latitude>
+   <longitude>37.62</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Red_Square</wiki>
+</topic>
+<topic>
+   <number>125</number>
+   <title>prague_castle</title>
+   <latitude>50.08975</latitude>
+   <longitude>14.3984</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Prague_Castle</wiki>
+</topic>
+<topic>
+   <number>126</number>
+   <title>musee_du_louvre</title>
+   <latitude>48.861111</latitude>
+   <longitude>2.336389</longitude>
+   <wiki>http://en.wikipedia.org/wiki/The_Louvre</wiki>
+</topic>
+<topic>
+   <number>127</number>
+   <title>millennium_bridge_london</title>
+   <latitude>51.510173</latitude>
+   <longitude>-0.098438</longitude>
+   <wiki>"http://en.wikipedia.org/wiki/Millennium_Bridge</wiki>
+</topic>
+<topic>
+   <number>128</number>
+   <title>casa_mila</title>
+   <latitude>41.3952777778</latitude>
+   <longitude>2.1616666667</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Casa_Mil%C3%A0</wiki>
+</topic>
+<topic>
+   <number>129</number>
+   <title>national_gallery_london</title>
+   <latitude>51.5086</latitude>
+   <longitude>-0.1283</longitude>
+   <wiki>http://en.wikipedia.org/wiki/National_Gallery</wiki>
+</topic>
+<topic>
+   <number>130</number>
+   <title>national_mall</title>
+   <latitude>38.89</latitude>
+   <longitude>-77.023611</longitude>
+   <wiki>http://en.wikipedia.org/wiki/National_Mall</wiki>
+</topic>
+<topic>
+   <number>131</number>
+   <title>london_city_hall</title>
+   <latitude>51.504722</latitude>
+   <longitude>-0.078333</longitude>
+   <wiki>http://en.wikipedia.org/wiki/City_Hall_%28London%29</wiki>
+</topic>
+<topic>
+   <number>132</number>
+   <title>holocaust_memorial</title>
+   <latitude>52.513889</latitude>
+   <longitude>13.378889</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Memorial_to_the_Murdered_Jews_of_Europe</wiki>
+</topic>
+<topic>
+   <number>133</number>
+   <title>columbus_circle</title>
+   <latitude>40.768056</latitude>
+   <longitude>-73.981944</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Columbus_Circle</wiki>
+</topic>
+<topic>
+   <number>134</number>
+   <title>siegessaeule</title>
+   <latitude>52.514444</latitude>
+   <longitude>13.35</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Berlin_Victory_Column</wiki>
+</topic>
+<topic>
+   <number>135</number>
+   <title>jardin_du_luxembourg</title>
+   <latitude>48.846944</latitude>
+   <longitude>2.337222</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Jardin_du_Luxembourg</wiki>
+</topic>
+<topic>
+   <number>136</number>
+   <title>merlion_singapore</title>
+   <latitude>1.287022</latitude>
+   <longitude>103.854689</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Merlion</wiki>
+</topic>
+<topic>
+   <number>137</number>
+   <title>harrods_london</title>
+   <latitude>51.499722</latitude>
+   <longitude>-0.163611</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Harrods</wiki>
+</topic>
+<topic>
+   <number>138</number>
+   <title>metropolitan_museum_of_art_new_york</title>
+   <latitude>40.77891</latitude>
+   <longitude>-73.96367</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art</wiki>
+</topic>
+<topic>
+   <number>139</number>
+   <title>new_york_stock_exchange</title>
+   <latitude>40.706833</latitude>
+   <longitude>-74.011028</longitude>
+   <wiki>http://en.wikipedia.org/wiki/New_York_Stock_Exchange</wiki>
+</topic>
+<topic>
+   <number>140</number>
+   <title>stephansdom_vienna</title>
+   <latitude>48.2085</latitude>
+   <longitude>16.373</longitude>
+   <wiki>"http://en.wikipedia.org/wiki/St._Stephen%27s_Cathedral</wiki>
+</topic>
+<topic>
+   <number>141</number>
+   <title>hms_belfast</title>
+   <latitude>51.506667</latitude>
+   <longitude>-0.081389</longitude>
+   <wiki>http://en.wikipedia.org/wiki/HMS_Belfast_%28C35%29</wiki>
+</topic>
+<topic>
+   <number>142</number>
+   <title>leicester_square</title>
+   <latitude>51.510278</latitude>
+   <longitude>-0.130278</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Leicester_Square</wiki>
+</topic>
+<topic>
+   <number>143</number>
+   <title>ciudad_de_las_artes_y_las_ciencias</title>
+   <latitude>39.454528</latitude>
+   <longitude>-0.350364</longitude>
+   <wiki>http://en.wikipedia.org/wiki/City_of_Arts_and_Sciences</wiki>
+</topic>
+<topic>
+   <number>144</number>
+   <title>topkapi_palace</title>
+   <latitude>41.013</latitude>
+   <longitude>28.984</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Topkap%C4%B1_Palace</wiki>
+</topic>
+<topic>
+   <number>145</number>
+   <title>royal_albert_hall</title>
+   <latitude>51.500944</latitude>
+   <longitude>-0.177436</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Royal_Albert_Hall</wiki>
+</topic>
+<topic>
+   <number>146</number>
+   <title>st_vitus_cathedral</title>
+   <latitude>50.0908333333</latitude>
+   <longitude>14.4008333333</longitude>
+   <wiki>http://en.wikipedia.org/wiki/St._Vitus_Cathedral</wiki>
+</topic>
+<topic>
+   <number>147</number>
+   <title>castello_sforzesco</title>
+   <latitude>45.470244</latitude>
+   <longitude>9.179549</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Sforza_Castle</wiki>
+</topic>
+<topic>
+   <number>148</number>
+   <title>rijksmuseum_amsterdam</title>
+   <latitude>52.36</latitude>
+   <longitude>4.885278</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Rijksmuseum</wiki>
+</topic>
+<topic>
+   <number>149</number>
+   <title>dam_square</title>
+   <latitude>52.373</latitude>
+   <longitude>4.893</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Dam_Square</wiki>
+</topic>
+<topic>
+   <number>150</number>
+   <title>rathaus_vienna</title>
+   <latitude>48.210833</latitude>
+   <longitude>16.356944</longitude>
+   <wiki>"http://en.wikipedia.org/wiki/Rathaus</wiki>
+</topic>
+<topic>
+   <number>151</number>
+   <title>bath_abbey</title>
+   <latitude>51.3815</latitude>
+   <longitude>-2.3587</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Bath_Abbey</wiki>
+</topic>
+<topic>
+   <number>152</number>
+   <title>salisbury_cathedral</title>
+   <latitude>51.064722</latitude>
+   <longitude>-1.7975</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Salisbury_Cathedral</wiki>
+</topic>
+<topic>
+   <number>153</number>
+   <title>templo_de_debod</title>
+   <latitude>40.424053</latitude>
+   <longitude>-3.717778</longitude>
+   <wiki>http://en.wikipedia.org/wiki/Temple_of_Debod</wiki>
+</topic>
+</topics>
