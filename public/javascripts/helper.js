@@ -10,7 +10,7 @@ window.requestImages = function() {
                         '<img class="thumbnail" src="' + pathToFolder + '/' + imageId + '.jpg" /></a>');
         });
         $("#imageGallery").lightGallery();
-    })
+    });
 };
 
 $(document).ready(function () {
